@@ -9,7 +9,8 @@
   "os": [
     "linux"
   ],
-  "main": "lib/temporalspans.js",
+  "main": "dist/temporalspans_es5.js",
+  "module": "lib/temporalspans.js",
   "license": "MIT",
   "url": "https://github.com/mwri/temporalspans",
   "scripts": {
