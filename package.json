@@ -1,7 +1,7 @@
 {
   "name": "temporalspans",
   "description": "Temporal span/period/event DB",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Michael Wright",
     "email": "mjw@methodanalysis.com"
