@@ -1,5 +1,5 @@
-import chai_jasmine from 'chai-jasmine';
-import temporalspans from './../lib/temporalspans.js';
+const chai_jasmine = require('chai-jasmine');
+const temporalspans = require('./../lib/temporalspans.js');
 
 
 describe('temporalspans', () => {
